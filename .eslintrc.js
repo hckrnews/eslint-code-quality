@@ -4,7 +4,6 @@ module.exports = {
             "mode": "typescript"
         }
     },
-    'root': true,
     'extends': [
         'plugin:import/recommended',
         'plugin:n/recommended',

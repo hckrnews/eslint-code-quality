@@ -12,9 +12,6 @@
         "type": "git",
         "url": "https://github.com/hckrnews/eslint-code-quality.git"
     },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    },
     "author": {
         "name": "Pieter Wigboldus",
         "url": "https://hckr.news/"

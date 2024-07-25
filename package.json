@@ -1,6 +1,6 @@
 {
     "name": "@hckrnews/eslint-code-quality",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Eslint config with code quality checks from hckr.news",
     "keywords": [
         "eslint",

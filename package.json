@@ -1,6 +1,6 @@
 {
     "name": "@hckrnews/eslint-code-quality",
-    "version": "0.1.7",
+    "version": "0.2.0",
     "description": "Eslint config with code quality checks from hckr.news",
     "keywords": [
         "eslint",
@@ -21,16 +21,16 @@
         "eslint": "^8.23.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-jsdoc": "^48.0.0",
-        "eslint-plugin-n": "^16.0.0",
-        "eslint-plugin-promise": "^6.0.1",
+        "eslint-plugin-n": "^17.0.0",
+        "eslint-plugin-promise": "^7.0.0",
         "eslint-plugin-sonarjs": "^0.24.0"
     },
     "devDependencies": {
         "eslint": "^8.23.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-jsdoc": "^48.0.0",
-        "eslint-plugin-n": "^16.0.0",
-        "eslint-plugin-promise": "^6.0.1",
+        "eslint-plugin-n": "^17.0.0",
+        "eslint-plugin-promise": "^7.0.0",
         "eslint-plugin-sonarjs": "^0.24.0"
     },
     "scripts": {

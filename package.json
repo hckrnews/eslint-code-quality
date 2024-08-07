@@ -28,7 +28,7 @@
     "devDependencies": {
         "eslint": "^8.23.0",
         "eslint-plugin-import": "^2.26.0",
-        "eslint-plugin-jsdoc": "^48.0.0",
+        "eslint-plugin-jsdoc": "^50.0.0",
         "eslint-plugin-n": "^17.0.0",
         "eslint-plugin-promise": "^7.0.0",
         "eslint-plugin-sonarjs": "^0.25.0"

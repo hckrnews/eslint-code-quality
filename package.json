@@ -20,7 +20,7 @@
     "peerDependencies": {
         "eslint": "^8.23.0",
         "eslint-plugin-import": "^2.26.0",
-        "eslint-plugin-jsdoc": "^48.0.0 || ^50.2.2 || ^51.0.0",
+        "eslint-plugin-jsdoc": "^48.0.0 || ^50.2.2 || ^51.0.0 || ^56.0.0",
         "eslint-plugin-n": "^17.0.0",
         "eslint-plugin-promise": "^7.0.0",
         "eslint-plugin-sonarjs": "^0.24.0 || ^0.25.1"
@@ -28,7 +28,7 @@
     "devDependencies": {
         "eslint": "^8.23.0",
         "eslint-plugin-import": "^2.26.0",
-        "eslint-plugin-jsdoc": "^51.0.0",
+        "eslint-plugin-jsdoc": "^56.0.0",
         "eslint-plugin-n": "^17.0.0",
         "eslint-plugin-promise": "^7.0.0",
         "eslint-plugin-sonarjs": "^0.25.0"
